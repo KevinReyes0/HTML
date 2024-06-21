@@ -1,0 +1,26 @@
+caption, thead{
+    color: brown;
+    border: 2px solid black
+}
+
+tbody{
+    color:blueviolet;
+}
+nav{
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.tableConteiner{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: 20px;
+    border: 2px solid black;
+}
+
+tr{
+    border-right: 2px solid black;
+}
